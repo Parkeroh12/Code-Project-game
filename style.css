@@ -1,0 +1,14 @@
+
+#shogi-board{
+ display: flex;
+ margin-left: auto;
+ margin-right: auto;
+ z-index: 2;
+ position: relative;
+}
+#shogi-peice{
+    display: flex;
+    width: 125px;
+    z-index: 1;
+    position: relative;
+}
